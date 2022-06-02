@@ -1,2 +1,2 @@
 # college
-This is a college website management system for with Admin panel
+This is a college website management system with Admin panel
